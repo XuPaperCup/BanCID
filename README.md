@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/release/kenygamer/BanCID/all.svg)
 ![](https://img.shields.io/github/downloads/kenygamer/BanCID/total.svg)
 
-BanCID is a PocketMine-MP plugin that allows you to manage device/client ID bans. Ensures your players don't try to create subaccounts to join your server.
+BanCID is a PocketMine-MP plugin that allows you to manage device/client bans. Ensures your players don't try to create subaccounts to join your server.
 ```
 /ban-ip + /bancid (/ban + UUID ban) = perfect match
 ```
