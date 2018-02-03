@@ -1,0 +1,6 @@
+---
+
+# unregister-ban-command: Unregister PocketMine default ban command
+unregister-ban-command: true
+
+...
